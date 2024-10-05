@@ -1,0 +1,26 @@
+h1 {
+    color: green;
+    font-size: 50px;
+}
+h2 {
+    color: aqua;
+    font-size: 30px;
+}
+h3 {
+    color: brown;
+}
+.colorlila{
+color: blueviolet;
+}
+li{
+    color: darkgoldenrod;
+}
+.colorverde{
+    color: green;
+}
+#colorred{
+    color: red;
+}
+#colorazul {
+    color:lightcoral;
+}
